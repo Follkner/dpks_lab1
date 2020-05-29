@@ -15,7 +15,6 @@ int Calculator::Mul (double a, double b)
     return a * b + 0.5;
 }
 
-//Cherevatenko changed this
 int Calculator::Div (double a, double b)
 {
 	return a / b;
